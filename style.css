@@ -1,0 +1,27 @@
+.center {
+    text-align: center;
+}
+.licenter {
+    list-style-position: inside;
+    display: table;
+    text-align: left;
+    margin: 0 auto;
+
+}
+.white {
+    color: red;
+
+}
+.red {
+    color: blue;
+}
+.blue {
+    color: black;
+
+}
+/********size*****/
+.img {
+     width: 320px;
+     height: 213px;
+     border-radius: 15%;
+}
